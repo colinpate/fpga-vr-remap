@@ -11,3 +11,7 @@ soc_system
 *.dtb
 *.dts
 *.v
+*.csv
+*.xml
+*.html
+*.txt
