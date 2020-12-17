@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system name="$${FILENAME}">
+ <component
+   name="$${FILENAME}"
+   displayName="$${FILENAME}"
+   version="1.0"
+   description=""
+   tags=""
+   categories="System" />
+ <parameter name="bonusData"><![CDATA[bonusData 
+{
+   element bilinear_interpolate_module_0
+   {
+      datum _sortIndex
+      {
+         value = "13";
+         type = "int";
+      }
+   }
+   element buffer_line_calc_v2_0
+   {
+      datum _sortIndex
+      {
+         value = "9";
+         type = "int";
+      }
+   }
+   element cam_receiver_0
+   {
+      datum _sortIndex
+      {
+         value = "2";
+         type = "int";
+      }
+   }
+   element coord_blk_reader_0
+   {
+      datum _sortIndex
+      {
+         value = "7";
+         type = "int";
+      }
+   }
+   element dc_fifo_0
+   {
+      datum _sortIndex
+      {
+         value = "8";
+         type = "int";
+      }
+   }
+   element ddr3_clk
+   {
+      datum _sortIndex
+      {
+         value = "14";
+         type = "int";
+      }
+   }
+   element ddr3_writer_gray_remap_0
+   {
+      datum _sortIndex
+      {
+         value = "18";
+         type = "int";
+      }
+   }
+   element ddr3_writer_remap_0
+   {
+      datum _sortIndex
+      {
+         value = "15";
+         type = "int";
+      }
+   }
+   element debayer_0
+   {
+      datum _sortIndex
+      {
+         value = "3";
+         type = "int";
+      }
+   }
+   element gray_downsample_0
+   {
+      datum _sortIndex
+      {
+         value = "17";
+         type = "int";
+      }
+   }
+   element pclk_source
+   {
+      datum _sortIndex
+      {
+         value = "1";
+         type = "int";
+      }
+   }
+   element rbcc_v2_0
+   {
+      datum _sortIndex
+      {
+         value = "11";
+         type = "int";
+      }
+   }
+   element rect_buffer_module_0
+   {
+      datum _sortIndex
+      {
+         value = "5";
+         type = "int";
+      }
+   }
+   element rect_buffer_reader_v2_0
+   {
+      datum _sortIndex
+      {
+         value = "12";
+         type = "int";
+      }
+   }
+   element rect_buffer_writer_v2_0
+   {
+      datum _sortIndex
+      {
+         value = "4";
+         type = "int";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element remap_v2_sys
+   {
+      datum _originalDeviceFamily
+      {
+         value = "Cyclone V";
+         type = "String";
+      }
+   }
+   element reset_controller_0
+   {
+      datum _sortIndex
+      {
+         value = "6";
+         type = "int";
+      }
+   }
+   element reset_controller_1
+   {
+      datum _sortIndex
+      {
+         value = "0";
+         type = "int";
+      }
+   }
+   element rgb_to_gray_0
+   {
+      datum _sortIndex
+      {
+         value = "16";
+         type = "int";
+      }
+   }
+   element sc_fifo_0
+   {
+      datum _sortIndex
+      {
+         value = "10";
+         type = "int";
+      }
+   }
+}
+]]></parameter>
+ <parameter name="clockCrossingAdapter" value="HANDSHAKE" />
+ <parameter name="device" value="5CSEBA6U23I7" />
+ <parameter name="deviceFamily" value="Cyclone V" />
+ <parameter name="deviceSpeedGrade" value="7" />
+ <parameter name="fabricMode" value="QSYS" />
+ <parameter name="generateLegacySim" value="false" />
+ <parameter name="generationId" value="0" />
+ <parameter name="globalResetBus" value="false" />
+ <parameter name="hdlLanguage" value="VERILOG" />
+ <parameter name="hideFromIPCatalog" value="false" />
+ <parameter name="lockedInterfaceDefinition" value="" />
+ <parameter name="maxAdditionalLatency" value="1" />
+ <parameter name="projectName">DE10_NANO_SOC_FB.qpf</parameter>
+ <parameter name="sopcBorderPoints" value="false" />
+ <parameter name="systemHash" value="0" />
+ <parameter name="testBenchDutName" value="" />
+ <parameter name="timeStamp" value="0" />
+ <parameter name="useTestBenchNamingPattern" value="false" />
+ <instanceScript></instanceScript>
+ <interface
+   name="cam_receiver_0_cam_in_conduit"
+   internal="cam_receiver_0.cam_in_conduit"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="cam_receiver_0_frame_error_conduit"
+   internal="cam_receiver_0.frame_error_conduit" />
+ <interface
+   name="coord_blk_reader_0_avalon_master"
+   internal="coord_blk_reader_0.avalon_master"
+   type="avalon"
+   dir="start" />
+ <interface name="ddr3_clk" internal="ddr3_clk.clk_in" type="clock" dir="end" />
+ <interface
+   name="ddr3_reset"
+   internal="ddr3_clk.clk_in_reset"
+   type="reset"
+   dir="end" />
+ <interface
+   name="ddr3_writer_gray_remap_0_avalon_master"
+   internal="ddr3_writer_gray_remap_0.avalon_master"
+   type="avalon"
+   dir="start" />
+ <interface
+   name="ddr3_writer_remap_0_avalon_master"
+   internal="ddr3_writer_remap_0.avalon_master"
+   type="avalon"
+   dir="start" />
+ <interface
+   name="ddr3_writer_remap_0_conduit_end_1"
+   internal="ddr3_writer_remap_0.conduit_end_1" />
+ <interface
+   name="ddr3_writer_remap_0_start"
+   internal="ddr3_writer_remap_0.start"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="debayer_0_raw_pixel_source"
+   internal="debayer_0.raw_pixel_source" />
+ <interface
+   name="gray_pointer_source"
+   internal="ddr3_writer_gray_remap_0.pointer_source"
+   type="avalon_streaming"
+   dir="start" />
+ <interface
+   name="gray_start_addr_out"
+   internal="ddr3_writer_gray_remap_0.start_out"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="gray_writer_start_addr"
+   internal="ddr3_writer_gray_remap_0.start"
+   type="conduit"
+   dir="end" />
+ <interface name="pclk" internal="pclk_source.clk_in" type="clock" dir="end" />
+ <interface
+   name="pclk_reset"
+   internal="reset_controller_1.reset_in0"
+   type="reset"
+   dir="end" />
+ <interface
+   name="remap_coords_base_address"
+   internal="coord_blk_reader_0.remap_coords_base_address"
+   type="conduit"
+   dir="end" />
+ <module
+   name="bilinear_interpolate_module_0"
+   kind="bilinear_interpolate_module"
+   version="1.0"
+   enabled="1" />
+ <module
+   name="buffer_line_calc_v2_0"
+   kind="buffer_line_calc_v2"
+   version="1.0"
+   enabled="1">
+  <parameter name="coord_frac_bits" value="2" />
+  <parameter name="wr_blk_h" value="32" />
+  <parameter name="wr_blk_w" value="32" />
+  <parameter name="wr_frame_h" value="1920" />
+  <parameter name="wr_frame_w" value="1440" />
+ </module>
+ <module name="cam_receiver_0" kind="cam_receiver" version="1.0" enabled="1">
+  <parameter name="frame_lines" value="1540" />
+  <parameter name="frame_width" value="2052" />
+ </module>
+ <module
+   name="coord_blk_reader_0"
+   kind="coord_blk_reader"
+   version="1.0"
+   enabled="1" />
+ <module
+   name="dc_fifo_0"
+   kind="altera_avalon_dc_fifo"
+   version="18.1"
+   enabled="1">
+  <parameter name="BITS_PER_SYMBOL" value="168" />
+  <parameter name="CHANNEL_WIDTH" value="0" />
+  <parameter name="ENABLE_EXPLICIT_MAXCHANNEL" value="false" />
+  <parameter name="ERROR_WIDTH" value="0" />
+  <parameter name="EXPLICIT_MAXCHANNEL" value="0" />
+  <parameter name="FIFO_DEPTH" value="64" />
+  <parameter name="RD_SYNC_DEPTH" value="3" />
+  <parameter name="SYMBOLS_PER_BEAT" value="1" />
+  <parameter name="USE_IN_FILL_LEVEL" value="0" />
+  <parameter name="USE_OUT_FILL_LEVEL" value="0" />
+  <parameter name="USE_PACKETS" value="0" />
+  <parameter name="WR_SYNC_DEPTH" value="3" />
+ </module>
+ <module name="ddr3_clk" kind="clock_source" version="18.1" enabled="1">
+  <parameter name="clockFrequency" value="100000000" />
+  <parameter name="clockFrequencyKnown" value="true" />
+  <parameter name="inputClockFrequency" value="0" />
+  <parameter name="resetSynchronousEdges" value="NONE" />
+ </module>
+ <module
+   name="ddr3_writer_gray_remap_0"
+   kind="ddr3_writer_gray_remap"
+   version="1.0"
+   enabled="1">
+  <parameter name="horiz" value="1" />
+  <parameter name="max_x" value="720" />
+  <parameter name="min_x" value="240" />
+  <parameter name="rotate_buffers" value="0" />
+ </module>
+ <module
+   name="ddr3_writer_remap_0"
+   kind="ddr3_writer_remap"
+   version="1.0"
+   enabled="1">
+  <parameter name="burst_log" value="2" />
+  <parameter name="horiz" value="1" />
+  <parameter name="in_width" value="16" />
+  <parameter name="rotate_buffers" value="0" />
+ </module>
+ <module name="debayer_0" kind="debayer" version="1.0" enabled="1">
+  <parameter name="line_length" value="2052" />
+ </module>
+ <module
+   name="gray_downsample_0"
+   kind="gray_downsample"
+   version="1.0"
+   enabled="1">
+  <parameter name="wr_blk_w" value="32" />
+  <parameter name="wr_frame_w" value="1440" />
+ </module>
+ <module name="pclk_source" kind="clock_source" version="18.1" enabled="1">
+  <parameter name="clockFrequency" value="50000000" />
+  <parameter name="clockFrequencyKnown" value="true" />
+  <parameter name="inputClockFrequency" value="0" />
+  <parameter name="resetSynchronousEdges" value="NONE" />
+ </module>
+ <module name="rbcc_v2_0" kind="rbcc_v2" version="1.0" enabled="1">
+  <parameter name="coord_frac_bits" value="2" />
+  <parameter name="wr_blk_h" value="32" />
+  <parameter name="wr_blk_w" value="32" />
+ </module>
+ <module
+   name="rect_buffer_module_0"
+   kind="rect_buffer_module"
+   version="1.0"
+   enabled="1" />
+ <module
+   name="rect_buffer_reader_v2_0"
+   kind="rect_buffer_reader_v2"
+   version="1.0"
+   enabled="1">
+  <parameter name="buffer_h" value="16" />
+  <parameter name="buffer_w" value="2048" />
+ </module>
+ <module
+   name="rect_buffer_writer_v2_0"
+   kind="rect_buffer_writer_v2"
+   version="1.0"
+   enabled="1">
+  <parameter name="buffer_h" value="16" />
+  <parameter name="buffer_w" value="2048" />
+ </module>
+ <module
+   name="reset_controller_0"
+   kind="altera_reset_controller"
+   version="18.1"
+   enabled="1">
+  <parameter name="MIN_RST_ASSERTION_TIME" value="3" />
+  <parameter name="NUM_RESET_INPUTS" value="2" />
+  <parameter name="OUTPUT_RESET_SYNC_EDGES" value="both" />
+  <parameter name="RESET_REQUEST_PRESENT" value="0" />
+  <parameter name="RESET_REQ_EARLY_DSRT_TIME" value="1" />
+  <parameter name="RESET_REQ_WAIT_TIME" value="1" />
+  <parameter name="SYNC_DEPTH" value="2" />
+  <parameter name="USE_RESET_REQUEST_IN0" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN1" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN10" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN11" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN12" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN13" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN14" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN15" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN2" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN3" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN4" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN5" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN6" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN7" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN8" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN9" value="0" />
+  <parameter name="USE_RESET_REQUEST_INPUT" value="0" />
+ </module>
+ <module
+   name="reset_controller_1"
+   kind="altera_reset_controller"
+   version="18.1"
+   enabled="1">
+  <parameter name="MIN_RST_ASSERTION_TIME" value="3" />
+  <parameter name="NUM_RESET_INPUTS" value="1" />
+  <parameter name="OUTPUT_RESET_SYNC_EDGES" value="both" />
+  <parameter name="RESET_REQUEST_PRESENT" value="0" />
+  <parameter name="RESET_REQ_EARLY_DSRT_TIME" value="1" />
+  <parameter name="RESET_REQ_WAIT_TIME" value="1" />
+  <parameter name="SYNC_DEPTH" value="2" />
+  <parameter name="USE_RESET_REQUEST_IN0" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN1" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN10" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN11" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN12" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN13" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN14" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN15" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN2" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN3" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN4" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN5" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN6" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN7" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN8" value="0" />
+  <parameter name="USE_RESET_REQUEST_IN9" value="0" />
+  <parameter name="USE_RESET_REQUEST_INPUT" value="0" />
+ </module>
+ <module name="rgb_to_gray_0" kind="rgb_to_gray" version="1.0" enabled="1" />
+ <module
+   name="sc_fifo_0"
+   kind="altera_avalon_sc_fifo"
+   version="18.1"
+   enabled="1">
+  <parameter name="BITS_PER_SYMBOL" value="66" />
+  <parameter name="CHANNEL_WIDTH" value="0" />
+  <parameter name="EMPTY_LATENCY" value="3" />
+  <parameter name="ENABLE_EXPLICIT_MAXCHANNEL" value="false" />
+  <parameter name="ERROR_WIDTH" value="0" />
+  <parameter name="EXPLICIT_MAXCHANNEL" value="0" />
+  <parameter name="FIFO_DEPTH" value="16" />
+  <parameter name="SYMBOLS_PER_BEAT" value="1" />
+  <parameter name="USE_ALMOST_EMPTY_IF" value="0" />
+  <parameter name="USE_ALMOST_FULL_IF" value="0" />
+  <parameter name="USE_FILL_LEVEL" value="0" />
+  <parameter name="USE_MEMORY_BLOCKS" value="1" />
+  <parameter name="USE_PACKETS" value="0" />
+  <parameter name="USE_STORE_FORWARD" value="0" />
+ </module>
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="ddr3_writer_remap_0.avalon_streaming_source"
+   end="rbcc_v2_0.fifo_almost_full_conduit" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="coord_blk_reader_0.avalon_streaming_source"
+   end="dc_fifo_0.in" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="bilinear_interpolate_module_0.avalon_streaming_source"
+   end="ddr3_writer_remap_0.pixel_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="rgb_to_gray_0.avalon_streaming_source"
+   end="gray_downsample_0.pixel_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="rbcc_v2_0.avalon_streaming_source"
+   end="rect_buffer_reader_v2_0.read_coord_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="bilinear_interpolate_module_0.avalon_streaming_source_1"
+   end="rgb_to_gray_0.avalon_streaming_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="buffer_line_calc_v2_0.blk_request_source"
+   end="coord_blk_reader_0.avalon_streaming_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="gray_downsample_0.coord_source"
+   end="ddr3_writer_gray_remap_0.coord_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="sc_fifo_0.out"
+   end="rbcc_v2_0.avalon_streaming_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="dc_fifo_0.out"
+   end="buffer_line_calc_v2_0.blk_read_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="cam_receiver_0.pixel_source"
+   end="debayer_0.pixel_in_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="gray_downsample_0.pixel_source"
+   end="ddr3_writer_gray_remap_0.pixel_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="buffer_line_calc_v2_0.read_coord_source"
+   end="sc_fifo_0.in" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="debayer_0.rgb_pixel_source"
+   end="rect_buffer_writer_v2_0.avalon_streaming_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="debayer_0.sof_out_0"
+   end="buffer_line_calc_v2_0.frame_start_conduit" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="debayer_0.sof_out_1"
+   end="rect_buffer_writer_v2_0.frame_start_conduit" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="buffer_line_calc_v2_0.write_coord_source"
+   end="ddr3_writer_remap_0.coord_sink" />
+ <connection
+   kind="avalon_streaming"
+   version="18.1"
+   start="buffer_line_calc_v2_0.write_coord_source_2"
+   end="gray_downsample_0.coord_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="rect_buffer_reader_v2_0.buf" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="sc_fifo_0.clk" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="ddr3_clk.clk"
+   end="reset_controller_0.clk" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="reset_controller_1.clk" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="rect_buffer_module_0.clock" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="bilinear_interpolate_module_0.clock" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="debayer_0.clock" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="gray_downsample_0.clock" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="rgb_to_gray_0.clock" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="rect_buffer_writer_v2_0.clock_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="rbcc_v2_0.clock_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="buffer_line_calc_v2_0.clock_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="cam_receiver_0.clock_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="ddr3_clk.clk"
+   end="ddr3_writer_remap_0.ddr3_clk_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="ddr3_clk.clk"
+   end="coord_blk_reader_0.ddr3_clk_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="ddr3_clk.clk"
+   end="ddr3_writer_gray_remap_0.ddr3_clk_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="ddr3_clk.clk"
+   end="dc_fifo_0.in_clk" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="dc_fifo_0.out_clk" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="ddr3_writer_remap_0.pclk_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="coord_blk_reader_0.pclk_sink" />
+ <connection
+   kind="clock"
+   version="18.1"
+   start="pclk_source.clk"
+   end="ddr3_writer_gray_remap_0.pclk_sink" />
+ <connection
+   kind="conduit"
+   version="18.1"
+   start="buffer_line_calc_v2_0.buffer_row_conduit"
+   end="rect_buffer_writer_v2_0.buffer_row_conduit">
+  <parameter name="endPort" value="" />
+  <parameter name="endPortLSB" value="0" />
+  <parameter name="startPort" value="" />
+  <parameter name="startPortLSB" value="0" />
+  <parameter name="width" value="0" />
+ </connection>
+ <connection
+   kind="conduit"
+   version="18.1"
+   start="rect_buffer_reader_v2_0.pixel_stream_conduit"
+   end="bilinear_interpolate_module_0.pixel_conduit">
+  <parameter name="endPort" value="" />
+  <parameter name="endPortLSB" value="0" />
+  <parameter name="startPort" value="" />
+  <parameter name="startPortLSB" value="0" />
+  <parameter name="width" value="0" />
+ </connection>
+ <connection
+   kind="conduit"
+   version="18.1"
+   start="rect_buffer_reader_v2_0.read_conduit"
+   end="rect_buffer_module_0.read">
+  <parameter name="endPort" value="" />
+  <parameter name="endPortLSB" value="0" />
+  <parameter name="startPort" value="" />
+  <parameter name="startPortLSB" value="0" />
+  <parameter name="width" value="0" />
+ </connection>
+ <connection
+   kind="conduit"
+   version="18.1"
+   start="debayer_0.sof_in_conduit"
+   end="cam_receiver_0.sof_conduit">
+  <parameter name="endPort" value="" />
+  <parameter name="endPortLSB" value="0" />
+  <parameter name="startPort" value="" />
+  <parameter name="startPortLSB" value="0" />
+  <parameter name="width" value="0" />
+ </connection>
+ <connection
+   kind="conduit"
+   version="18.1"
+   start="rect_buffer_writer_v2_0.write_conduit"
+   end="rect_buffer_module_0.write">
+  <parameter name="endPort" value="" />
+  <parameter name="endPortLSB" value="0" />
+  <parameter name="startPort" value="" />
+  <parameter name="startPortLSB" value="0" />
+  <parameter name="width" value="0" />
+ </connection>
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="sc_fifo_0.clk_reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="ddr3_clk.clk_reset"
+   end="ddr3_writer_gray_remap_0.ddr3_clk_reset_sink" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="ddr3_clk.clk_reset"
+   end="ddr3_writer_remap_0.ddr3clk_reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="dc_fifo_0.out_clk_reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="ddr3_writer_remap_0.pclk_reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="ddr3_writer_gray_remap_0.pclk_reset_sink" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="rect_buffer_reader_v2_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="rbcc_v2_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="buffer_line_calc_v2_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="rect_buffer_writer_v2_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="debayer_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="cam_receiver_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="gray_downsample_0.reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="ddr3_clk.clk_reset"
+   end="reset_controller_0.reset_in0" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="pclk_source.clk_reset"
+   end="reset_controller_0.reset_in1" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="reset_controller_1.reset_out"
+   end="pclk_source.clk_in_reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="reset_controller_0.reset_out"
+   end="dc_fifo_0.in_clk_reset" />
+ <connection
+   kind="reset"
+   version="18.1"
+   start="reset_controller_0.reset_out"
+   end="coord_blk_reader_0.reset" />
+ <interconnectRequirement for="$system" name="qsys_mm.clockCrossingAdapter" value="HANDSHAKE" />
+ <interconnectRequirement for="$system" name="qsys_mm.enableEccProtection" value="FALSE" />
+ <interconnectRequirement for="$system" name="qsys_mm.insertDefaultSlave" value="FALSE" />
+ <interconnectRequirement for="$system" name="qsys_mm.maxAdditionalLatency" value="1" />
+</system>
